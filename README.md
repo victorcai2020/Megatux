@@ -1,2 +1,2 @@
-# Megatux_part_1
-The first part of the Megatux Game
+# Megatux
+The first part of the Megatux Game will be released soon.
