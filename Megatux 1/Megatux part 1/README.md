@@ -1,4 +1,4 @@
-# Shooter
+# Megatux
 
 This is a platformer-shooter game where evil snowmen invaded Antarctica. You have to liberate
 the continent!
