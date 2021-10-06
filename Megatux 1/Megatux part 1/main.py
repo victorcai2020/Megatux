@@ -737,7 +737,19 @@ world = World()
 player, health_bar = world.process_data(world_data)
 
 class CutsceneManager:
-	def __init__(self):
+	def __init__(self, screen):
+		pass
+
+	def start_cut_scene(self, cutscene):
+		pass
+
+	def end_cut_scene(self):
+		pass
+
+	def update(self):
+		pass
+
+	def draw(self):
 		pass
 
 def show_credits():
