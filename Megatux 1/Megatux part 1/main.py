@@ -736,8 +736,9 @@ except FileNotFoundError:
 world = World()
 player, health_bar = world.process_data(world_data)
 
-def cutscene():
-	pass
+class CutsceneManager:
+	def __init__(self):
+		pass
 
 def show_credits():
 	pass
@@ -911,6 +912,6 @@ while run:
 		pygame.display.update()
 
 	if dialogue == True:
-		cutscene()
+		pass
 
 pygame.quit()
