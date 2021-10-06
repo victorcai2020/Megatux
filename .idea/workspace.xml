@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72eb7fc7-5b5e-47d4-b47c-988eecbb3317" name="Default Changelist" comment="initial commit">
+    <list default="true" id="72eb7fc7-5b5e-47d4-b47c-988eecbb3317" name="Default Changelist" comment="Second cutscene step">
       <change beforePath="$PROJECT_DIR$/Megatux 1/Megatux part 1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Megatux 1/Megatux part 1/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -209,7 +209,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633481032515</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="First cutscene step">
+      <created>1633481556573</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1633481556573</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Second cutscene step">
+      <created>1633481677776</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1633481677776</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,6 +241,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Update README" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README" />
+    <MESSAGE value="First cutscene step" />
+    <MESSAGE value="Second cutscene step" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second cutscene step" />
   </component>
 </project>
