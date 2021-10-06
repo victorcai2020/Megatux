@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72eb7fc7-5b5e-47d4-b47c-988eecbb3317" name="Default Changelist" comment="First cutscene step">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="72eb7fc7-5b5e-47d4-b47c-988eecbb3317" name="Default Changelist" comment="Second commit">
       <change beforePath="$PROJECT_DIR$/Megatux 1/Megatux part 1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Megatux 1/Megatux part 1/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -238,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633482076612</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Second commit">
+      <created>1633519330342</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1633519330342</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,6 +264,7 @@
     <MESSAGE value="Update README" />
     <MESSAGE value="Second cutscene step" />
     <MESSAGE value="First cutscene step" />
-    <option name="LAST_COMMIT_MESSAGE" value="First cutscene step" />
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
   </component>
 </project>
